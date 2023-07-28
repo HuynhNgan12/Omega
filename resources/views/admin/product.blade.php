@@ -21,7 +21,7 @@
                             >
                         </div>
                         <div class="row">
-                            <div class="col-md-12">
+                            <div class="col-md-10">
                                 <div class="form-group">
                                     <form action="{{ route('admin.product.index') }}" method="GET" class="d-flex">
                                         <input type="text" class="form-control" name="search" placeholder="Tìm kiếm nhân viên"

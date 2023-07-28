@@ -49,7 +49,7 @@
 />
 
     <!-- Template Stylesheet -->
-    <link rel="stylesheet" href="{{asset('/css/style.css')}}" />
+    <link rel="stylesheet" href="{{asset('/css/style_web.css')}}" />
   </head>
 
   <body>

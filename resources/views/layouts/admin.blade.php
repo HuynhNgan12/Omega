@@ -60,7 +60,7 @@
       <div class="app-sidebar__user">
         <img
           class="app-sidebar__user-avatar"
-          src="{{asset('/img/img_admin.jpg')}}"
+          src="{{asset('/img/Admin.jpg')}}"
           width="50px"
           alt="User Image"
         />
