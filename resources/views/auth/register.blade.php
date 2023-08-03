@@ -101,7 +101,7 @@
               </div>
               
               <div class="text-center mt-3">
-                Bạn đã có tài khoản?
+                Bạn đã có tài khoản??
                 <a href="{{ route('login') }}">
                  Đăng nhập
                 </a>

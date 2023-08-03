@@ -75,7 +75,7 @@
                         </div>
                         <div class="text-center mt-3">
                             <a href="{{ route('login') }}">
-                             Quay lại Đăng nhập
+                             Quay lại Đăng 
                             </a>
                           </div>
                     </form>
