@@ -67,4 +67,5 @@ Route::middleware('auth')->group(function(){
     Route::get('/my-account/orders','App\Http\Controllers\MyAccountController@orders')->name("myaccount.orders");
 });
 
-Route::get('/admin', 'App\Http\Controllers\Admin\AdminHomeController@index')->name("admin.home.index");
+Route::get('/Admin', 'App\Http\Controllers\admin\AdminHomeController@index')->name("admin.home.index");
+Route::get('/AdminTintuc', 'App\Http\Controllers\admin\AdminTintucController@index')->name("admin.tintuc.index");
